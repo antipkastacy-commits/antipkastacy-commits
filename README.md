@@ -1,5 +1,5 @@
-# My name Stacy and...
+# My name Stacy
 
 <div id="header" align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ1ZHo5aWdoN2loZnc1eGszbnp6dWNtZjVvejZwZDBqM2toZmQ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EVymX8u70s22mQ/giphy.gif" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp1Nm9oZzIybHNwYmFpdG56d2gxZ212NzU2eDU0YmltbnZ6OXAyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/70Asu3n7btVgk/giphy.gif" width="500"/>
 </div>
